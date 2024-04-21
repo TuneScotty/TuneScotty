@@ -1,5 +1,5 @@
 <h3 align="center" font-size: xx-large;">
-    Half-Stack Programmer, TuneScotty
+    #Half-Stack Programmer, TuneScotty
   </h3>
 <div align="center">
   <a href="https://skillicons.dev">
