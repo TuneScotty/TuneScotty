@@ -1,6 +1,6 @@
-<h6 align="center" font-size: xx-large;">
+<h1 align="center" font-size: xx-large;">
     Half-Stack Programmer, TuneScotty
-  </h6>
+  </h1>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=robloxstudio,js,html,css,lua,cs" />
