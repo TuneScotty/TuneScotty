@@ -1,4 +1,4 @@
-<h3 align="center" font-size="100px">
+<h3 align="center" font-size: xx-large;">
     Half-Stack Programmer, TuneScotty
   </h3>
 <div align="center">
