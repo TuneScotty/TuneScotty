@@ -1,6 +1,5 @@
-# Half-Stack Programmer, TuneScotty
 <h3 align="center">
-    Languages
+    Half-Stack Programmer, TuneScotty
   </h3>
 <div align="center">
   <a href="https://skillicons.dev">
