@@ -3,6 +3,9 @@
   </h1>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=robloxstudio,js,html,css,lua,cs,php,py,perl&perline=3&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=robloxstudio,atom,vscode"
+                </br>
+    <img src="https://skillicons.dev/icons?i=js,html,css,lua,cs,php,py,perl&perline=3&theme=dark" />
+
   </a>
 </div>
