@@ -4,8 +4,8 @@
   </h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=robloxstudio,js,html,css,lua,cs,php,perl" />
+    <img src="https://skillicons.dev/icons?i=robloxstudio,js,html,css,lua,cs" />
     <br />
-    <img src="https://skillicons.dev/icons?i=godot,php,py,go">
+    <img src="https://skillicons.dev/icons?i=php,py,perl">
   </a>
 </div>
