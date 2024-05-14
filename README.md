@@ -5,6 +5,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=wordpress,robloxstudio,vscode,atom">
     </br></br></br>
-    <img src="https://skillicons.dev/icons?i=js,html,css,lua,cs,php,py,perl,mysql&perline=3"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,lua,mysql,php,py,perl,cs&perline=3"/>
   </a>
 </div>
