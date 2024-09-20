@@ -8,5 +8,5 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,lua,mysql,php,py,perl,cs&perline=3"/>
     </br></br></br>
  </a>
-    (https://komarev.com/ghpvc/?username=TuneScotty&abbreviated=true&style=plastic&color=blueviolet) 
 </div>
+    ![](https://komarev.com/ghpvc/?username=TuneScotty&abbreviated=true&style=plastic&color=blueviolet) 
