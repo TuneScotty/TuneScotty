@@ -9,8 +9,7 @@
     </br></br></br>
  </a>
 </div>
-    ![](https://komarev.com/ghpvc/?username=TuneScotty&abbreviated=true&style=plastic&color=blueviolet) 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+<a href="https://github.com/TuneScotty/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=TuneScotty&abbreviated=true&style=plastic&color=blueviolet">
 </a>
 
