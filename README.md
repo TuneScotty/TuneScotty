@@ -6,5 +6,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,wordpress,robloxstudio,vscode,atom">
     </br></br></br>
     <img src="https://skillicons.dev/icons?i=js,html,css,lua,mysql,php,py,perl,cs&perline=3"/>
-  </a>
+    </br></br></br>
+    ![](https://komarev.com/ghpvc/?username=TuneScotty&abbreviated=true&style=plastic&color=blueviolet) 
+ </a>
 </div>
