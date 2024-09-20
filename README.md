@@ -10,4 +10,7 @@
  </a>
 </div>
     ![](https://komarev.com/ghpvc/?username=TuneScotty&abbreviated=true&style=plastic&color=blueviolet) 
-    [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+</a>
+
