@@ -8,8 +8,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,lua,mysql,php,py,perl,cs&perline=3"/>
     </br></br></br>
  </a>
-</div>
-<a href="https://github.com/TuneScotty/github-profile-views-counter">
+    <a href="https://github.com/TuneScotty/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=TuneScotty&abbreviated=true&style=plastic&color=blueviolet">
-</a>
-
+    </a>
+</div>
