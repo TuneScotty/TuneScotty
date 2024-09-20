@@ -7,6 +7,6 @@
     </br></br></br>
     <img src="https://skillicons.dev/icons?i=js,html,css,lua,mysql,php,py,perl,cs&perline=3"/>
     </br></br></br>
-    ![](https://komarev.com/ghpvc/?username=TuneScotty&abbreviated=true&style=plastic&color=blueviolet) 
  </a>
+    ![](https://komarev.com/ghpvc/?username=TuneScotty&abbreviated=true&style=plastic&color=blueviolet) 
 </div>
