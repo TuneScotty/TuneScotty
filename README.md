@@ -12,3 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=TuneScotty&abbreviated=true&style=plastic&color=blueviolet">
     </a>
 </div>
+
+![Or's Stats](https://github-readme-stats.vercel.app/api?username=TuneScotty&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![Or's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TuneScotty&theme=dark&show_icons=true&hide_border=true&layout=compact)
