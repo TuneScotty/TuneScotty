@@ -2,6 +2,7 @@
     Full-stack Programmer, TuneScotty
   </h1>
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuneScotty&theme=dark&show_icons=true&hide_border=true&layout=compact">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,wordpress,robloxstudio,vscode,atom">
     </br></br></br>
@@ -11,5 +12,4 @@
     <a href="https://github.com/TuneScotty/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=TuneScotty&abbreviated=true&style=plastic&color=blueviolet">
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuneScotty&theme=dark&show_icons=true&hide_border=true&layout=compact">
 </div>
