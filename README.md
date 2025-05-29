@@ -9,9 +9,9 @@
   <br><br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,robloxstudio,wordpress,bootstrap,vscode,atom&perline=3"/>
+    <img src="https://skillicons.dev/icons?i=docker,robloxstudio,wordpress,atom,androidstudio,tailwind&perline=3"/>
     <br><br><br>
-    <img src="https://skillicons.dev/icons?i=lua,ts,go,perl,react,kotlin,js,html,css,cs,mysql,php,rust,py,java&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=lua,ts,go,perl,react,rust,js,html,css,cs,mysql,php,kotlin,py,java&perline=5"/>
   </a>
 
   <br><br>
