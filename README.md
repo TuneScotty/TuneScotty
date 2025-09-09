@@ -16,8 +16,9 @@
 
   <br><br>
   
-  <a href="https://app.daily.dev/orski">
-  <img src="https://api.daily.dev/devcards/v2/yCjeT7fX2wwVPVN2aKYO6.png?type=default&r=qqp" width="356" alt="Or's Dev Card"/>
+  <a
+  href="https://app.daily.dev/orski">
+  <img src="https://api.daily.dev/devcards/v2/yCjeT7fX2wwVPVN2aKYO6.png?type=default&r=0av" width="356" alt="Or's Dev Card"/>
   </a>
 
   <br><br>
